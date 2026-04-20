@@ -295,12 +295,12 @@ footer {
         .mainPlaylist{
             text-align: center;
             display: inline-block;
-            background-color: green ;
+            
             width: 73%;
             vertical-align: top;
             height: 80vh;
 
-            background-image: url("../Imagenes/FondoPlaylists.png");
+            background-image:  url("../Imagenes/FondoPlaylists.png");
             background-size: cover;
     
         }
